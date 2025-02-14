@@ -38,7 +38,7 @@
     <section>
 <div class="tab-content" id="pills-tabContent">
 <div class="tab-pane fade show active" id="pills-cloud" role="tabpanel" aria-labelledby="pills-home-tab">
-    <div class="container mt-4">
+    <div class="container mt-4 mb-5">
        
             <div class="tab-pane fade active show" id="pills-cloud" role="tabpanel" aria-labelledby="pills-cloud-tab">
         <div class="row ">
@@ -57,7 +57,7 @@
             <div class="card IFS" style="color:#03143D">Ever Evolving Functionality</div>
             <div class="card IFS" style="color:#03143D">Driven By Innovation</div>
         </div>
-        <div class="col-lg-8 d-flex" >
+        <div class="col-lg-8  d-flex" >
             <div class="row align-items-stretch">
                 <div class="col-lg-8 mt-md-2  d-flex" style=" background: linear-gradient(143.1deg, #42348B 24.41%, #A677C5 132.12%);padding:20px;border-radius:20px;color:white;  line-height: 1.2; ">
                     <div class="container">
@@ -161,6 +161,88 @@
                         <h2 class="text fs-3 d-flex align-items-center justify-content-center"style="font-size:40px;font-weight:bold;text-transform:capitalize;">IFS has been recognised as the Voice of the Customer</h2>
                         <p class="content-1 fs-1 d-flex align-items-center justify-content-center" style="text-transform:capitalize;">by 2023 Gartner® Peer Insights™.</p>
                         <p class="text fs-5 d-flex align-items-center justify-content-center">Some of the peer reviews mentioned in the report are:</p>
+
+                        <!-- Carousel Section -->
+                        <div id="carouselExampleControlsNoTouching" class="carousel slide" data-bs-touch="false" data-bs-interval="false">
+                            <div class="carousel-inner">
+                                <div class="carousel-item active">
+                                    <div class="text d-block w-100 text-center p-4 bg-white text-dark rounded-3">
+                                        <h2 style="font-size: 25px;color:#03143D">"The most complete and flexible ERP solution in the market."</h2>
+                                        <p style="font-size:19px;">The experience with the IFS solution has been truly satisfying, it has been a great choice for our business. I would recommend it to everyone.” Product Analyst</p>
+                                        <hr>
+                                        <span class="text text-success" style="font-size:17px">Product Analyst</span>
+                                    </div>
+                                </div>
+                                <div class="carousel-item">
+                                    <div class="text d-block w-100 text-center p-4 bg-white text-dark rounded-3">
+                                        <h2 style="font-size: 25px;color:#03143D">"Great ERP System that is continually improving."</h2>
+                                        <p style="font-size:19px;">IFS has been a good solution for a small company and technology makes the product flexible through configuration. Our company can't handle the manpower requirements of other products.</p>
+                                        <hr>
+                                        <span class="text text-success" style="font-size:17px">IT Manager</span>
+                                    </div>
+                                </div>
+                                <div class="carousel-item">
+                                    <div class="text d-block w-100 text-center p-4 bg-white text-dark rounded-3">
+                                        <h2 style="font-size: 25px;color:#03143D">"Flexible and fun ERP from IFS."</h2>
+                                        <p style="font-size:19px;">It is an enjoyable ERP that has the right rules and does not bend these rules and offers multiple solutions for a business.</p>
+                                        <hr>
+                                        <span class="text text-success" style="font-size:17px">Chief Supply Chain Office Director</span>
+                                    </div>
+                                </div>
+                                <div class="carousel-item">
+                                    <div class="text d-block w-100 text-center p-4 bg-white text-dark rounded-3">
+                                        <h2 style="font-size: 25px;color:#03143D">"Exceptional performance from IFS ERP."</h2>
+                                        <p style="font-size:19px;"> The product was great. It was easy to use. Improved our visibility. We easily migrate all of our data.</p>
+                                        <hr>
+                                        <span class="text text-success" style="font-size:17px">Data Management RSP</span>
+                                    </div>
+                                </div>
+                                <div class="carousel-item">
+                                    <div class="text d-block w-100 text-center p-4 bg-white text-dark rounded-3">
+                                        <h2 style="font-size: 25px;color:#03143D">"IFS is making our staff more efficient and more productive."</h2>
+                                        <p style="font-size:19px;">Very happy with our transition from a home grown green screen based system to the full featured IFS ERP system. Positive feedback from all users - on IFS's ease of use. Backend database integrates well with our Business Intelligence software - making our staff more efficient and more productive.</p>
+                                        <hr>
+                                        <span class="text text-success" style="font-size:17px">Director of IT</span>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <!-- Black Colored Buttons -->
+                            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControlsNoTouching" data-bs-slide="prev" >
+                                <span class="carousel-control" aria-hidden="true"><h2 class="arrow">←</h2></span>
+                                <span class="visually-hidden">Previous</span>
+                            </button>
+                            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControlsNoTouching" data-bs-slide="next">
+                                <span class="carousel-control" aria-hidden="true"><h2 class="arrow-1">→</h2></span>
+                                <span class="visually-hidden">Next</span>
+                            </button>
+
+                            <!-- Custom Small Rounded Indicators -->
+                            <div class="carousel-indicators-custom">
+                                <span class="indicator active" data-bs-target="#carouselExampleControlsNoTouching" data-bs-slide-to="0"></span>
+                                <span class="indicator" data-bs-target="#carouselExampleControlsNoTouching" data-bs-slide-to="1"></span>
+                                <span class="indicator" data-bs-target="#carouselExampleControlsNoTouching" data-bs-slide-to="2"></span>
+                                <span class="indicator" data-bs-target="#carouselExampleControlsNoTouching" data-bs-slide-to="3"></span>
+                                <span class="indicator" data-bs-target="#carouselExampleControlsNoTouching" data-bs-slide-to="4"></span>
+                            </div>
+                        </div>
+
+                        <!-- Bootstrap JavaScript -->
+                        <script>
+                            document.addEventListener("DOMContentLoaded", function () {
+                                let indicators = document.querySelectorAll(".indicator");
+                                let carousel = document.querySelector("#carouselExampleControlsNoTouching");
+
+                                carousel.addEventListener("slid.bs.carousel", function () {
+                                    let activeIndex = [...carousel.querySelectorAll(".carousel-item")].findIndex(item => item.classList.contains("active"));
+                                    indicators.forEach((indicator, index) => {
+                                        indicator.classList.toggle("active", index === activeIndex);
+                                    });
+                                });
+                            });
+                        </script>
+
+
                     </div>
                 </div>
                 <div class="row my-2 align-items-stretch d-flex ">

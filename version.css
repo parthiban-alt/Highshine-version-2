@@ -4,6 +4,7 @@
     font-size: 19px; 
 }
 
+
 .IFS{
     width:auto;
     border:none;
@@ -38,4 +39,80 @@
     font-weight:400;
     font-size: 50px;
     font-style: normal;
+}
+
+.custom-carousel-btn {
+    position: absolute;
+    top: 40%;
+    transform: translateY(-40%);
+   
+    border: none;
+    font-size: 40px; /* Increase arrow size */
+    font-weight: bold;
+    color: white; /* Button color */
+    cursor: pointer;
+    z-index: 10;
+}
+.carousel-control-prev {
+    left: -70px; /* Move left button outside */
+}
+.carousel-control-next {
+    right: -70px; /* Move right button outside */
+}
+  
+    .carousel-indicators-custom {
+        display: flex;
+        justify-content: center;
+        margin-top: 20px;
+      border:none;
+    }
+    .indicator {
+        border:none;
+        width: 12px;
+        height: 12px;
+        margin: 5px;
+        border-radius: 50%;
+        background-color: white; /* Default color */
+        border: none; /* Border color */
+        cursor: pointer;
+    }
+    .indicator.active {
+        background-color:grey; /* Change color when active */
+    }
+.carousel-inner{
+    width:93%;
+    height:90%;
+    margin-left:20px;
+}
+.arrow{
+    background-color: black;
+    color:white;
+    border-radius:50%;
+    margin-left:25px;
+    padding-left:7px;
+    padding-right:7px;
+  
+}
+.arrow-1{
+    background-color: black;
+    color:white;
+    border-radius:50%;
+    margin-right:30px;
+    padding-left:9px;
+    padding-right:9px;
+}
+
+/* Mobile-screen */
+@media screen and (max-width:500px) {
+    .carousel-inner{
+        width:270px;
+        height:90%;
+        margin-left:20px;
+    }
+    .carousel-control-prev {
+        left: -45px; /* Move left button outside */
+    }
+    .carousel-control-next {
+        right: -45px; /* Move right button outside */
+    }
 }
