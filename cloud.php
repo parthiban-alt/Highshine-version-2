@@ -43,14 +43,15 @@
             <div class="tab-pane fade active show" id="pills-cloud" role="tabpanel" aria-labelledby="pills-cloud-tab">
         <div class="row ">
             <div class="col-lg-4 d-flex align-items-center">
-                <h1 class="content-1"style="font-weight:bold;margin-left:10px;">Why<br> <span class="color" style="color:#42348B;">IFS</span> <span>Cloud</span></h1> 
+                <h1 class="content-1"style="font-weight:bold;margin-left:10px;"><span class="color" style="color:#42348B;">IFS</span> <span>Cloud</span></h1> 
             </div>
-            <div class="col-lg-8 d-flex align-items-justify text">
-            He IFS Cloud platform is a comprehensive suite of flexible ERP Solutions that empower businesses to optimize operations and drive revenue growth. Centralized via Cloud Processing, businesses can benefit from scalability, flexibility, and reduced IT costs. IFS Cloud provides a secure and reliable platform that can be accessed from anywhere, at any time.
+            <div class="col-lg-8 d-flex align-items-justify text cloud-text">
+            The IFS Cloud platform offers flexible ERP solutions to optimize operations and boost revenue. With centralized cloud processing, it ensures scalability, flexibility, and reduced IT costs. Access it securely anytime, anywhere.
             </div>
         </div>
     <div class="row align-items-stretch ">
         <div class="col-lg-4 d-flex flex-column mt-2 ">
+        <div class="card IFS " style="color:#42348B">Key Highlights</div>
             <div class="card IFS " style="color:#03143D">Industry Specific Capabilities</div>
             <div class="card IFS" style="color:#03143D">Unified Platform</div>
             <div class="card IFS" style="color:#03143D">Intuitively Designed UI</div>
@@ -59,7 +60,7 @@
         </div>
         <div class="col-lg-8  d-flex" >
             <div class="row align-items-stretch">
-                <div class="col-lg-8 mt-md-2  d-flex" style=" background: linear-gradient(143.1deg, #42348B 24.41%, #A677C5 132.12%);padding:20px;border-radius:20px;color:white;  line-height: 1.2; ">
+                <div class="col-lg-8 mt-md-2 d-flex" style=" background: linear-gradient(143.1deg, #42348B 24.41%, #A677C5 132.12%);padding:20px;border-radius:20px;color:white;height:440px; ">
                     <div class="container">
                         <h2 class="content-1"style="font-size:33px;font-weight:bold;">A Forrester Report Investigated</h2>
                         <p class="text">The cost savings and business benefits enabled by IFS Solutions Deployed in the cloud in April 2023.</p>
@@ -92,7 +93,7 @@
             <div class="card rounded-4" style="background: #F6F0FF;border:none;">
                 <div class="card-body">
                     <h5 class="custom-heading text ps-2" >
-                    To know more on what a composable enterprises is and <br>how it compares to monolithic applications
+                            Download brochure to discover how IFS Cloud can transform your business.
                     </h5>
                     <a href="#" class="download-link text-decoration-none d-flex align-items-right justify-content-end" target="_blank">
                     <div style="background-color:#845EC2;" class="rounded-pill px-3 py-1 d-inline-flex align-items-center justify-content-around">
@@ -108,7 +109,7 @@
             <div class="card rounded-4" style="background-color:#F2F6FF;border:none">
                 <div class="card-body">
                     <h5 class="custom-heading text ps-2">
-                    To know more on how IFS Cloud supplement<br> sustainable growth
+                    Streamline operations, boost service, and save costs with IFS Cloud.
                     </h5>
                     <!-- <a href="#" class="download-link text-decoration-none d-flex align-items-right" target="_blank"> -->
                     <a href="#" class="download-link text-decoration-none d-flex align-items-right justify-content-end" target="_blank">
@@ -135,8 +136,10 @@
             <div class="col-lg-4 d-flex align-items-center">
                 <h1 class="content-1"style="font-weight:bold;margin-left:10px;"><span class="color" style="color:#42348B;">IFS</span> <span>ERP</span></h1> 
             </div>
-            <div class="col-lg-8 d-flex align-items-justify text">
-            IFS ERP combines a breadth of functionality and innovation with industry know-how to assist business to achieve more with less.
+            <div class="col-lg-8 d-flex align-items-justify text cloud-text">
+             
+            IFS ERP combines a breadth of functionality, innovation, and industry know-how to help businesses achieve more with less. With real-time insights, automation, and a user-friendly interface, IFS empowers your team to work smarter and stay ahead in a competitive world.
+                            
            
             </div>
         </div>
@@ -153,17 +156,17 @@
         </div>
         <div class="col-lg-8 d-flex" >
             <div class="row align-items-stretch">
-                <div class="text fs-2" style="color:#03143D">
+                <div class="text fs-3" style="color:#03143D;">
                          With Modular Features Across Capabilities Like
                 </div>
-                <div class="col-lg-12 mt-md-2 d-flex" style=" background: linear-gradient(143.1deg, #42348B 24.41%, #A677C5 132.12%);padding:20px;border-radius:20px;color:white;  line-height: 1.3; ">
+                <div class="col-lg-12 mt-md-2 d-flex" style=" background: linear-gradient(143.1deg, #42348B 24.41%, #A677C5 132.12%);padding-top:20px;border-radius:20px;color:white;  line-height: 1.3; ">
                     <div class="container">
-                        <h2 class="text fs-3 d-flex align-items-center justify-content-center"style="font-size:40px;font-weight:bold;text-transform:capitalize;">IFS has been recognised as the Voice of the Customer</h2>
+                        <h2 class="text fs-3 d-flex align-items-center justify-content-center"style="font-size:40px;font-weight:bold;">IFS has been recognised as the Voice of the Customer</h2>
                         <p class="content-1 fs-1 d-flex align-items-center justify-content-center" style="text-transform:capitalize;">by 2023 Gartner® Peer Insights™.</p>
                         <p class="text fs-5 d-flex align-items-center justify-content-center">Some of the peer reviews mentioned in the report are:</p>
 
                         <!-- Carousel Section -->
-                        <div id="carouselExampleControlsNoTouching" class="carousel slide" data-bs-touch="false" data-bs-interval="false">
+                        <div id="carouselExampleControlsNoTouching" class="carousel slide" data-bs-touch="false" data-bs-interval="false" >
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
                                     <div class="text d-block w-100 text-center p-4 bg-white text-dark rounded-3">
@@ -250,7 +253,7 @@
             <div class="card rounded-4" style="background: #F6F0FF;border:none;  box-shadow: 1px 4px 4px rgba(0, 0, 0, 0.2);">
                 <div class="card-body">
                     <h5 class="custom-heading text " style="color:#03143D;font-size:19px;" >
-                    For a case study on how IFS ERP assist in improving business efficiency
+                    Boost efficiency with IFS ERP- Read the case study.
                     </h5>
                     <a href="#" class="download-link text-decoration-none d-flex align-items-center justify-content-center" target="_blank">
                     <div style="background-color:#845EC2;" class="rounded-pill px-2 py-1 d-inline-flex align-items-center justify-content-around">
@@ -266,7 +269,7 @@
             <div class="card rounded-4" style="background-color:#F2F6FF;border:none;  box-shadow: 1px 4px 4px rgba(0, 0, 0, 0.2);">
                 <div class="card-body">
                     <h5 class="custom-heading text " style="color:#03143D;font-size:19px;">
-                    For more information about why IFS ERP might be the best choice for your business.
+                    Discover why IFS ERP is the perfect fit for your business.
                     </h5>
                     <a href="#" class="download-link text-decoration-none d-flex align-items-center justify-content-center" target="_blank">
                     <div style="background-color:#845EC2;" class="rounded-pill px-2 py-1 d-inline-flex align-items-center justify-content-around">
@@ -295,9 +298,8 @@
       
       <div class="row align-items-stretch ifs_eam">
           <div class="col-xl-4 d-flex flex-column mt-2 ">
-              <h2 class="content-1"><span style="color:#350064;font-weight:bold">IFS</span> EAM</h2>
+              <h2 class="content-1"><span style="color:#350064;font-weight:bold">IFS</span><span style="font-weight:bold"> EAM</span></h2>
               <div class="d-flex flex-column ">
-                <h2 class="text ms-2" style="font-weight:bold;font-size:30px"><span style="color:#350064;">IFS</span> Cloud</h2>
                   <div class="card IFS"style="color:#03143D">Asset Lifecycle Management</div>
                   <div class="card IFS"style="color:#03143D">Asset Performance<br> Management Software</div>
                   <div class="card IFS"style="color:#03143D">Aviation Maintenance Solutions</div>
@@ -309,30 +311,24 @@
                   <div class="card IFS"style="color:#03143D">Fleet Maintenance &amp; Logistics</div>
                   <div class="card IFS"style="color:#03143D">Fleet Maintenance &amp; Logistics</div>
                   <div class="card IFS  py-1"style="color:#03143D; text-align: center;">Environmental,<br> Health, and Safety (EHS) Software</div>
-                  <div class="card IFS  py-1"style="color:#03143D">Healthcare Technology Management</div>
+                  <div class="card IFS  py-2"style="color:#03143D">Healthcare Technology Management</div>
                   <div class="card IFS py-1"style="color:#03143D; text-align: center;">Computerized<br> Maintenance Management System</div>
               </div>
           </div>
           <div class="col-xl-8 ">
-              <div class="text">
-                 <strong class="fs-4">IFS EAM </strong>is designed to help businesses optimize the lifecycle of their physical assets, including machinery, equipment, and infrastructure. 
-              </div>
-              <div class="text" style="color:#42348B;">
-                  It has two versions:
-              </div>
-              <div class="text">
-              <strong class="fs-4"> IFS Cloud</strong> eam is a comprehensive asset management solution that helps organizations optimize the lifecycle of their physical assets. By tracking asset information, maintenance schedules, and work orders, businesses can improve asset reliability, reduce downtime, and extend asset lifespans. Key capabilities lie in:
+              <div class="text cloud-text">
+                 <strong class="fs-4">IFS EAM </strong>is a comprehensive asset management solution that helps organizations optimize the lifecycle of their assets. By tracking asset information, maintenance schedules, and work orders, businesses can improve reliability, reduce downtime, and extend lifespans.
               </div>
                  <div class="row">
                   <div class="col-lg-6 my-2">
                   <div class="card rounded-4" style="background: #F6F0FF;border:none;">
                   <div class="card-body">
                       <h5 class="custom-heading text ps-2" >
-                              To know 10 reasons why Businesses choose IFS EAM
+                      Discover 10 reasons why businesses choose IFS EAM.
                       </h5>
                       <a href="#" class="download-link text-decoration-none d-flex align-items-right justify-content-end" target="_blank">
                       <div style="background-color:#845EC2;" class="rounded-pill px-3 py-1 d-inline-flex align-items-center justify-content-around">
-                                  <h6 style="color:white" class="mb-0">Download PD</h6>
+                                  <h6 style="color:white" class="mb-0">Download PDF</h6>
                                   <img src="assets/white-download.png" width="18" alt="phone_img" class="img-fluid ">
                               </div>
                       </a>
@@ -343,11 +339,11 @@
                   <div class="card rounded-4" style="background:#F2F6FF;border:none;">
                   <div class="card-body">
                       <h5 class="custom-heading text ps-2" >
-                          To understand current trends and future developments in the EAM Market.
+                      Learn how IFS EAM can optimize your asset management.
                       </h5>
                       <a href="#" class="download-link text-decoration-none d-flex align-items-right justify-content-end" target="_blank">
                       <div style="background-color:#845EC2;" class="rounded-pill px-3 py-1 d-inline-flex align-items-center justify-content-around">
-                                  <h6 style="color:white" class="mb-0">Download PD</h6>
+                                  <h6 style="color:white" class="mb-0">Download PDF</h6>
                                   <img src="assets/white-download.png" width="18" alt="phone_img" class="img-fluid">
                               </div>
                       </a>
@@ -356,22 +352,23 @@
               </div>
               <div class="my-2 py-2 d-flex justify-content-center rounded-4" style=" background: linear-gradient(143.1deg, #42348B 24.41%, #A677C5 132.12%);">
                   <div class="col-lg-10 ">
-                      <img src="assets/assets-img.png" alt="image" class="rounded-3 img-fluid">
+                      <img src="assets/assets-img.png" alt="image" class=" rounded-3 img-fluid" style="height:400px">
                   </div>
               </div>
-              <div class="text">
-                  IFS Ultimo is a powerful and unique EAM solution designed to help organizations efficiently manage their assets. It offers a user-friendly interface and rapid deployment, making it ideal for mid-sized businesses. Some of its key capabilities lie in:
+              <div class="text cloud-text">
+                  IFS Ultimo is a powerful and unique EAM solution designed to help organizations efficiently manage their assets. It offers a user-friendly interface and rapid deployment, making it ideal for mid-sized businesses. 
               </div>
               <div class="row my-2">
                   <div class="col-lg-6 my-2">
                   <div class="card rounded-4" style="background:#F6F0FF;border:none;">
                   <div class="card-body">
                       <h5 class="custom-heading text ps-2 mt-1" >
-                          To know how Asset Performance Management can supplement your business strategy. 
+                      IFS Ultimo EAM offers industry solutions, modules, and mobile access.
+
                       </h5>
                       <a href="#" class="download-link text-decoration-none d-flex align-items-right justify-content-end mb-2" target="_blank">
                       <div style="background-color:#845EC2;" class="rounded-pill px-3 py-1 d-inline-flex align-items-center justify-content-around">
-                                  <h6 style="color:white" class="mb-0">Download PD</h6>
+                                  <h6 style="color:white" class="mb-0">Download PDF</h6>
                                   <img src="assets/white-download.png" width="18" alt="phone_img" class="img-fluid">
                               </div>
                       </a>
@@ -382,11 +379,11 @@
                           <div class="card rounded-4" style="background:#F2F6FF;border:none;">
                           <div class="card-body">
                               <h5 class="custom-heading text ps-2" >
-                                   To gain in depth understanding of how IFS Ultimo can resolve 5 common asset management challenges in the manufacturing industry.
+                              IFS delivers advanced solutions for effective asset management.
                               </h5>
                               <a href="#" class="download-link text-decoration-none d-flex align-items-right justify-content-end" target="_blank">
                               <div style="background-color:#845EC2;" class="rounded-pill px-3 py-1 d-inline-flex align-items-center justify-content-around">
-                                          <h6 style="color:white" class="mb-0">Download PD</h6>
+                                          <h6 style="color:white" class="mb-0">Download PDF</h6>
                                           <img src="assets/white-download.png" width="18" alt="phone_img" class="img-fluid ">
                                       </div>
                               </a>
@@ -404,15 +401,15 @@
   <div class="container mt-4 mb-5">
 
 <div class="row ">
-    <div class="col-lg-4  d-flex align-items-center justify-content-center">
-    <h1 class="content-1"style="font-weight:bold;"><span style="color:#350064;">IFS<br></span> <span style="color:#001844">Cloud FSM</span></h1> 
+    <div class="col-lg-4 pt-3 ">
+    <h1 class="content-1"style="font-weight:bold;margin-left:10px"><span style="color:#42348B;">IFS</span> <span style="color:#001844"> FSM</span></h1> 
     </div>
-    <div class="col-lg-8 text">
-        <p><span style="color:#42348B;font-weight:bold;font-size:23px;">IFS Cloud FSM</span> is a powerful tool for field service organizations. By providing real-time visibility into field technician schedules, inventory levels, and customer information, businesses can improve service delivery, increase customer satisfaction, and optimize resource utilization. Some of its key capabilities are:</p>
+    <div class="col-lg-8 text cloud-text">
+        <p><span style="color:#42348B;font-weight:bold;font-size:23px;">IFS Cloud FSM</span> is a powerful tool for field service organizations. By providing real-time visibility into field technician schedules, inventory levels, and customer information, businesses can improve service delivery, increase customer satisfaction, and optimize resource utilization.</p>
     </div>
 </div>
 <div class="row align-items-stretch ifs_fsm">
-    <div class="col-lg-4 d-flex flex-column mt-2 " >
+    <div class="col-lg-4 d-flex flex-column " >
         <div class="card IFS" style="color:#03143D">Field Service Management Software</div>
         <div class="card IFS "style="color:#03143D">Contact Center &amp;<br> Customer Engagement</div>
         <div class="card IFS "style="color:#03143D">Reverse logistics &amp;<br> Returns Management</div>
@@ -423,13 +420,13 @@
         <div class="card IFS "style="color:#03143D">Service parts logistics &amp;repair</div>
     </div>
     <div class="col-xl-8">
-        <div class="my-2 p-4 text-white rounded-4 " style=" background: linear-gradient(143.1deg, #42348B 24.41%, #A677C5 132.12%);">
+        <div class="my-2 text-white rounded-4 " style=" background: linear-gradient(143.1deg, #42348B 24.41%, #A677C5 132.12%);padding:21px;padding-bottom:29px">
             <div class="col-lg-12 text-center mt-lg-2">
-                <h4 class="content-1" style="font-size:22px; text-transform: uppercase;line-height:33px;">IFS FSM has been found to be the Voice of the customer for field service management in a peer report by Gartner in July 2024, </h4>
+                <h4 class="content-1 " style="font-size:22px; text-transform: uppercase;line-height:33px;">IFS FSM has been found to be the Voice of the customer for field service management in a peer report by Gartner in July 2024, </h4>
             </div>
             <div class="row mt-lg-4">
                 <div class="col-lg-4 my-auto content-1 fs-3">
-                    <p style="line-height: 35px;">When compared to other leading field service management solutions.</p>
+                    <p style="line-height: 39px;">When compared to other leading field service management solutions.</p>
                 </div>
                 <div class="col-lg-8 mt-lg-3">
                     <img src="assets/service.png" alt="image" class="rounded-4 img-fluid" >
@@ -441,7 +438,7 @@
             <div class="card rounded-4" style="background: #F6F0FF;border:none;  box-shadow: 1px 4px 4px rgba(0, 0, 0, 0.2);">
                 <div class="card-body">
                     <h5 class=" text  " style="color:#001844;font-size:19px;text-align:center;" >
-                            To learn the 9 main ways planning and scheduling makes a difference in your<br> profit or loss.
+                    Unlock the power of IFS Field Service Management.
                     </h5>
                     <a href="#" class="download-link text-decoration-none d-flex align-items-center justify-content-center" target="_blank">
                     <div style="background-color:#845EC2;" class="rounded-pill px-3 py-2 d-inline-flex align-items-center justify-content-around">
@@ -456,7 +453,7 @@
             <div class="card rounded-4" style="background: #F2F6FF;border:none;  box-shadow: 1px 4px 4px rgba(0, 0, 0, 0.2);">
                     <div class="card-body">
                         <h5 class="text d-flex align-items-center justify-content-center mt-1 mb-3 " style="color:#03143D;font-size:19px;text-align:center;" >
-                        To understand in-Depth the role of services and how IFS assists in that.
+                        Download brochure to harness the power of IFS FSM.
                         </h5>
                         <a href="#" class="download-link text-decoration-none d-flex align-items-center justify-content-center mb-2" target="_blank">
                         <div style="background-color:#845EC2;" class="rounded-pill px-3 py-1 d-inline-flex align-items-center justify-content-around">
